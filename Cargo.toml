@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "placeholder_strategy",
+    "placeholder_data_handler",
+    "placeholder_portfolio",
+    "placeholder_broker_executor",
+    "traders",
+    "traders_runner",
+]
